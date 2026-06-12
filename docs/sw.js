@@ -1,5 +1,6 @@
-/* True North service worker — cache-first app shell for offline study. */
-const CACHE = "truenorth-v1";
+/* True North service worker — offline-capable app shell.
+   Strategy: stale-while-revalidate, so updates ship without version bumps. */
+const CACHE = "truenorth-v2";
 const ASSETS = [
   ".",
   "index.html",
@@ -25,16 +26,14 @@ self.addEventListener("activate", (e) => {
 });
 
 self.addEventListener("fetch", (e) => {
-  if (e.request.method !== "GET") return;
+  if (e.request.method !== "GET" || !e.request.url.startsWith(self.location.origin)) return;
   e.respondWith(
-    caches.match(e.request, { ignoreSearch: true }).then(
-      (hit) =>
-        hit ||
-        fetch(e.request).then((res) => {
-          const copy = res.clone();
-          caches.open(CACHE).then((c) => c.put(e.request, copy));
-          return res;
-        })
-    ).catch(() => caches.match("index.html"))
+    caches.open(CACHE).then(async (c) => {
+      const hit = await c.match(e.request, { ignoreSearch: true });
+      const refresh = fetch(e.request)
+        .then((res) => { if (res.ok) c.put(e.request, res.clone()); return res; })
+        .catch(() => null);
+      return hit || (await refresh) || c.match("index.html");
+    })
   );
 });
