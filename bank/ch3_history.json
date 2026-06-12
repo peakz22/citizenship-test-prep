@@ -139,7 +139,7 @@
   "q": "The vast fur-trade economy of New France was driven by European demand for what?",
   "opts": [
    "Timber",
-   "Fish",
+   "Cod and other fish",
    "Gold",
    "Beaver pelts"
   ],
@@ -226,7 +226,7 @@
   "type": "mc",
   "q": "Who were the United Empire Loyalists?",
   "opts": [
-   "People loyal to the Crown who fled the American Revolution to settle in Nova Scotia and Quebec",
+   "People loyal to the Crown who fled the American Revolution",
    "French colonists deported from Acadia",
    "Fur traders working for the Hudson's Bay Company",
    "Settlers who supported joining the United States"
@@ -344,7 +344,7 @@
   "type": "mc",
   "q": "What was the Underground Railroad?",
   "opts": [
-   "A Christian anti-slavery network through which slaves escaping the United States settled in Canada",
+   "A Christian anti-slavery network that helped slaves escape to Canada",
    "The first railway line between Montreal and Toronto",
    "A secret supply route used during the War of 1812",
    "A trading route of the Hudson's Bay Company"
@@ -419,7 +419,7 @@
   "opts": [
    "The first officers of the North West Mounted Police",
    "The British governors of the Atlantic colonies",
-   "Representatives of Nova Scotia, New Brunswick and the Province of Canada who worked to establish a new country",
+   "Representatives of Nova Scotia, New Brunswick and the Province of Canada",
    "The first judges appointed in the Dominion of Canada"
   ],
   "a": 2,
@@ -786,7 +786,7 @@
   "opts": [
    "The Roaring Twenties",
    "The First World War",
-   "The Great Depression, or the 'Dirty Thirties'",
+   "The Great Depression",
    "Confederation"
   ],
   "a": 2,

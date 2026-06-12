@@ -124,9 +124,9 @@
   "q": "After whom were the province of Alberta and the world-famous Lake Louise named?",
   "opts": [
    "Queen Victoria",
-   "Princess Margaret",
+   "Princess Margaret, daughter of King George VI",
    "Queen Elizabeth I",
-   "Princess Louise Caroline Alberta, fourth daughter of Queen Victoria"
+   "Princess Louise Caroline Alberta"
   ],
   "a": 3,
   "expl": "Both Alberta and Lake Louise were named after Princess Louise Caroline Alberta, the fourth daughter of Queen Victoria.",
@@ -198,7 +198,7 @@
   "type": "mc",
   "q": "What are Alberta's rugged Badlands known for?",
   "opts": [
-   "Some of the world's richest deposits of prehistoric fossils and dinosaur finds",
+   "Some of the world's richest dinosaur fossil deposits",
    "The world's largest gold mines",
    "Canada's biggest hydro-electric dams",
    "The world's highest tides"

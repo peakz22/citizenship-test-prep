@@ -104,6 +104,7 @@ function go(r, arg) {
   location.hash = r;
   document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t.dataset.route === r));
   stopTimer();
+  keyHandler = null;
   routes[r](arg);
   window.scrollTo(0, 0);
   renderDue();
@@ -215,6 +216,8 @@ function ringSVG(pct) {
    mode: "practice" (instant feedback, endless) | "test" (no feedback until end, timed) | "review" */
 let T = null; // active timer
 function stopTimer() { if (T) { clearInterval(T); T = null; } }
+let keyHandler = null; // active quiz keyboard handler (desktop: A-D/1-4 answer, Enter advances)
+document.addEventListener("keydown", (e) => { if (keyHandler) keyHandler(e); });
 
 function runQuiz({ qs, mode, title, onDone }) {
   let i = 0, score = 0;
@@ -237,6 +240,14 @@ function runQuiz({ qs, mode, title, onDone }) {
       <div id="fb"></div>
       <button class="btn ghost mt" id="quit">End session</button>`;
     view.querySelectorAll(".opt").forEach(b => b.onclick = () => pick(+b.dataset.k));
+    keyHandler = (e) => {
+      if (e.target.tagName === "INPUT" || e.metaKey || e.ctrlKey || e.altKey) return;
+      const c = e.key.toLowerCase();
+      let k = "abcd".indexOf(c); if (k < 0) k = "1234".indexOf(c);
+      if (qs[i] && qs[i].type === "tf") { if (c === "t") k = 0; if (c === "f") k = 1; }
+      if (k >= 0) { const opt = view.querySelector(`.opt[data-k="${k}"]`); if (opt && !opt.disabled) { e.preventDefault(); pick(k); } return; }
+      if (e.key === "Enter") { const n = document.getElementById("next"); if (n) { e.preventDefault(); n.click(); } }
+    };
     document.getElementById("quit").onclick = () => { if (mode === "test" && i > 0) { if (!confirm("End the test now? It will be scored as-is.")) return; finish(); } else go("home"); };
     if (mode === "test") tick();
   }
