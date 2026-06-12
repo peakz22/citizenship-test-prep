@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#b3001b">
+<meta name="description" content="Study app for the Canadian citizenship test, based on the official Discover Canada guide.">
+<title>True North — Citizenship Test Prep</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/leaf.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <span class="brand"><svg class="leaf-ico" viewBox="0 0 100 100" aria-hidden="true"><path d="M50 6 L55 21 L67 13 L62 30 L79 26 L70 40 L88 47 L71 53 L79 68 L61 63 L63 81 L50 70 L37 81 L39 63 L21 68 L29 53 L12 47 L30 40 L21 26 L38 30 L33 13 L45 21 Z"/><rect x="47.5" y="68" width="5" height="26" rx="2.5"/></svg> True North</span>
+    <span class="topbar-right">
+      <span id="streakBadge" class="streak" title="Daily study streak">🔥 0</span>
+      <button id="themeBtn" class="icon-btn" aria-label="Toggle dark mode">◐</button>
+    </span>
+  </div>
+</header>
+
+<main id="view" class="view"></main>
+
+<nav class="tabbar" aria-label="Main">
+  <button data-route="home" class="tab active"><span class="tab-ico">⌂</span><span>Home</span></button>
+  <button data-route="practice" class="tab"><span class="tab-ico">✎</span><span>Practice</span></button>
+  <button data-route="test" class="tab"><span class="tab-ico">⏱</span><span>Mock Test</span></button>
+  <button data-route="review" class="tab"><span class="tab-ico">↻</span><span>Review<b id="dueBadge" class="badge" hidden></b></span></button>
+  <button data-route="cards" class="tab"><span class="tab-ico">▤</span><span>Cards</span></button>
+</nav>
+
+<script src="data/questions.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

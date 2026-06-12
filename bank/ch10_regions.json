@@ -1,0 +1,648 @@
+[
+ {
+  "id": "reg-001",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Which of the following lists the five regions of Canada?",
+  "opts": [
+   "Eastern Canada, Western Canada, Northern Canada, Southern Canada, Central Canada",
+   "The Maritimes, Ontario, Quebec, the Rockies, the Arctic",
+   "The Atlantic Provinces, Central Canada, the Prairie Provinces, the West Coast, the Northern Territories",
+   "The Pacific Coast, the Atlantic Coast, the Great Lakes, the Prairies, the Tundra"
+  ],
+  "a": 2,
+  "expl": "Canada includes five distinct regions: the Atlantic Provinces, Central Canada, the Prairie Provinces, the West Coast and the Northern Territories.",
+  "diff": 1
+ },
+ {
+  "id": "reg-002",
+  "chapter": 10,
+  "type": "mc",
+  "q": "What is the capital city of Canada?",
+  "opts": [
+   "Toronto",
+   "Ottawa",
+   "Montreal",
+   "Vancouver"
+  ],
+  "a": 1,
+  "expl": "Ottawa, located on the Ottawa River, is the capital of Canada and today is Canada's fourth largest metropolitan area.",
+  "diff": 1
+ },
+ {
+  "id": "reg-003",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Who chose Ottawa as the capital of Canada in 1857?",
+  "opts": [
+   "Queen Victoria",
+   "Queen Elizabeth II",
+   "Sir John A. Macdonald",
+   "King George V"
+  ],
+  "a": 0,
+  "expl": "Ottawa was chosen as the capital in 1857 by Queen Victoria, the great-great-grandmother of Queen Elizabeth II.",
+  "diff": 2
+ },
+ {
+  "id": "reg-004",
+  "chapter": 10,
+  "type": "mc",
+  "q": "How many provinces and territories does Canada have?",
+  "opts": [
+   "Nine provinces and four territories",
+   "Twelve provinces and one territory",
+   "Ten provinces and two territories",
+   "Ten provinces and three territories"
+  ],
+  "a": 3,
+  "expl": "Canada has ten provinces and three territories, and each has its own capital city.",
+  "diff": 1
+ },
+ {
+  "id": "reg-005",
+  "chapter": 10,
+  "type": "tf",
+  "q": "Canada has a population of about 60 million people.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 1,
+  "expl": "False. The guide states Canada has a population of about 34 million people.",
+  "diff": 1
+ },
+ {
+  "id": "reg-006",
+  "chapter": 10,
+  "type": "mc",
+  "q": "What is the capital of Alberta?",
+  "opts": [
+   "Calgary",
+   "Edmonton",
+   "Banff",
+   "Regina"
+  ],
+  "a": 1,
+  "expl": "Edmonton is the capital city of Alberta. You should know the capital of your province as well as that of Canada.",
+  "diff": 1
+ },
+ {
+  "id": "reg-007",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Which provinces are known as the Prairie Provinces?",
+  "opts": [
+   "Manitoba, Saskatchewan and Alberta",
+   "Alberta, British Columbia and Saskatchewan",
+   "Manitoba, Ontario and Saskatchewan",
+   "Saskatchewan, Alberta and Yukon"
+  ],
+  "a": 0,
+  "expl": "Manitoba, Saskatchewan and Alberta are the Prairie Provinces, rich in energy resources and some of the most fertile farmland in the world.",
+  "diff": 1
+ },
+ {
+  "id": "reg-008",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Which is the most populous Prairie province?",
+  "opts": [
+   "Saskatchewan",
+   "Manitoba",
+   "Alberta",
+   "British Columbia"
+  ],
+  "a": 2,
+  "expl": "Alberta is the most populous Prairie province. (British Columbia is not a Prairie province.)",
+  "diff": 2
+ },
+ {
+  "id": "reg-009",
+  "chapter": 10,
+  "type": "mc",
+  "q": "After whom were the province of Alberta and the world-famous Lake Louise named?",
+  "opts": [
+   "Queen Victoria",
+   "Princess Margaret",
+   "Queen Elizabeth I",
+   "Princess Louise Caroline Alberta, fourth daughter of Queen Victoria"
+  ],
+  "a": 3,
+  "expl": "Both Alberta and Lake Louise were named after Princess Louise Caroline Alberta, the fourth daughter of Queen Victoria.",
+  "diff": 3
+ },
+ {
+  "id": "reg-010",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Which province is the largest producer of oil and gas in Canada?",
+  "opts": [
+   "Alberta",
+   "Saskatchewan",
+   "Newfoundland and Labrador",
+   "British Columbia"
+  ],
+  "a": 0,
+  "expl": "Alberta is the largest producer of oil and gas, and the oil sands in the north are being developed as a major energy source.",
+  "diff": 1
+ },
+ {
+  "id": "reg-011",
+  "chapter": 10,
+  "type": "mc",
+  "q": "In what year was Banff National Park established?",
+  "opts": [
+   "1867",
+   "1885",
+   "1905",
+   "1999"
+  ],
+  "a": 1,
+  "expl": "Alberta has five national parks, including Banff National Park, established in 1885.",
+  "diff": 3
+ },
+ {
+  "id": "reg-012",
+  "chapter": 10,
+  "type": "mc",
+  "q": "How many national parks does Alberta have?",
+  "opts": [
+   "Three",
+   "Four",
+   "Five",
+   "Seven"
+  ],
+  "a": 2,
+  "expl": "Alberta has five national parks, including Banff National Park.",
+  "diff": 3
+ },
+ {
+  "id": "reg-013",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Where is the world-famous Lake Louise located?",
+  "opts": [
+   "The Badlands",
+   "The Canadian Shield",
+   "The Appalachian Range",
+   "The Rocky Mountains"
+  ],
+  "a": 3,
+  "expl": "Lake Louise is located in the Rocky Mountains in Alberta.",
+  "diff": 2
+ },
+ {
+  "id": "reg-014",
+  "chapter": 10,
+  "type": "mc",
+  "q": "What are Alberta's rugged Badlands known for?",
+  "opts": [
+   "Some of the world's richest deposits of prehistoric fossils and dinosaur finds",
+   "The world's largest gold mines",
+   "Canada's biggest hydro-electric dams",
+   "The world's highest tides"
+  ],
+  "a": 0,
+  "expl": "The rugged Badlands house some of the world's richest deposits of prehistoric fossils and dinosaur finds.",
+  "diff": 2
+ },
+ {
+  "id": "reg-015",
+  "chapter": 10,
+  "type": "tf",
+  "q": "Alberta is renowned for its vast cattle ranches, which help make Canada one of the world's major beef producers.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 0,
+  "expl": "True. Alberta is renowned for agriculture, especially the vast cattle ranches that make Canada one of the world's major beef producers.",
+  "diff": 1
+ },
+ {
+  "id": "reg-016",
+  "chapter": 10,
+  "type": "tf",
+  "q": "Alberta's oil sands are located in the southern part of the province.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 1,
+  "expl": "False. The oil sands in the north of Alberta are being developed as a major energy source.",
+  "diff": 2
+ },
+ {
+  "id": "reg-017",
+  "chapter": 10,
+  "type": "mc",
+  "q": "How does the guide describe the climate of the Prairie Provinces?",
+  "opts": [
+   "Temperate, with warm airstreams from the Pacific",
+   "Mostly dry, with cold winters and hot summers",
+   "Cool winters and cool humid summers",
+   "Long cold winters and short cool summers"
+  ],
+  "a": 1,
+  "expl": "The Prairie region is mostly dry, with cold winters and hot summers. (The temperate climate describes the B.C. coast; cool winters and humid summers describe Atlantic Canada; long cold winters describe the North.)",
+  "diff": 2
+ },
+ {
+  "id": "reg-018",
+  "chapter": 10,
+  "type": "mc",
+  "q": "What is the capital of Saskatchewan?",
+  "opts": [
+   "Saskatoon",
+   "Winnipeg",
+   "Regina",
+   "Moose Jaw"
+  ],
+  "a": 2,
+  "expl": "Regina is the capital of Saskatchewan. Saskatoon is the province's largest city.",
+  "diff": 1
+ },
+ {
+  "id": "reg-019",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Regina is home to which national institution?",
+  "opts": [
+   "The headquarters of the navy's Pacific fleet",
+   "Canada's largest naval base",
+   "The Geological Survey of Canada",
+   "The training academy of the Royal Canadian Mounted Police"
+  ],
+  "a": 3,
+  "expl": "Regina, the capital of Saskatchewan, is home to the training academy of the Royal Canadian Mounted Police.",
+  "diff": 2
+ },
+ {
+  "id": "reg-020",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Which province was once known as the \"breadbasket of the world\" and the \"wheat province\"?",
+  "opts": [
+   "Saskatchewan",
+   "Manitoba",
+   "Ontario",
+   "Alberta"
+  ],
+  "a": 0,
+  "expl": "Saskatchewan was once known as the \"breadbasket of the world\" and the \"wheat province\"; it has 40% of the arable land in Canada and is the country's largest producer of grains and oilseeds.",
+  "diff": 1
+ },
+ {
+  "id": "reg-021",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Saskatchewan boasts the world's richest deposits of which two resources?",
+  "opts": [
+   "Gold and silver",
+   "Uranium and potash",
+   "Diamonds and zinc",
+   "Coal and copper"
+  ],
+  "a": 1,
+  "expl": "Saskatchewan boasts the world's richest deposits of uranium and potash, which is used in fertilizer.",
+  "diff": 3
+ },
+ {
+  "id": "reg-022",
+  "chapter": 10,
+  "type": "mc",
+  "q": "What is the capital of Manitoba?",
+  "opts": [
+   "Brandon",
+   "Regina",
+   "St. Boniface",
+   "Winnipeg"
+  ],
+  "a": 3,
+  "expl": "Winnipeg is the capital and most populous city of Manitoba. St. Boniface is Winnipeg's French Quarter.",
+  "diff": 1
+ },
+ {
+  "id": "reg-023",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Portage and Main, the most famous street intersection in Canada, is found in which city?",
+  "opts": [
+   "Toronto",
+   "Calgary",
+   "Winnipeg",
+   "Edmonton"
+  ],
+  "a": 2,
+  "expl": "Winnipeg's Exchange District includes Portage and Main, the most famous street intersection in Canada.",
+  "diff": 3
+ },
+ {
+  "id": "reg-024",
+  "chapter": 10,
+  "type": "tf",
+  "q": "Manitoba has the largest Aboriginal population of any province, at over 15 per cent.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 0,
+  "expl": "True. Manitoba has the largest Aboriginal population of any province, at over 15%, and is also an important centre of Ukrainian culture.",
+  "diff": 2
+ },
+ {
+  "id": "reg-025",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Which provinces make up the Atlantic Provinces?",
+  "opts": [
+   "Newfoundland and Labrador, Prince Edward Island, Nova Scotia and New Brunswick",
+   "Quebec, New Brunswick, Nova Scotia and Prince Edward Island",
+   "Nova Scotia, New Brunswick, Ontario and Newfoundland and Labrador",
+   "Prince Edward Island, Nova Scotia, Quebec and Newfoundland and Labrador"
+  ],
+  "a": 0,
+  "expl": "The four Atlantic Provinces are Newfoundland and Labrador, Prince Edward Island, Nova Scotia and New Brunswick. Quebec and Ontario form Central Canada.",
+  "diff": 1
+ },
+ {
+  "id": "reg-026",
+  "chapter": 10,
+  "type": "mc",
+  "q": "What is the capital of Nova Scotia?",
+  "opts": [
+   "Fredericton",
+   "Halifax",
+   "Charlottetown",
+   "Sydney"
+  ],
+  "a": 1,
+  "expl": "Halifax is the capital of Nova Scotia, Canada's largest east coast port and home to Canada's largest naval base. Fredericton is New Brunswick's capital and Charlottetown is Prince Edward Island's.",
+  "diff": 1
+ },
+ {
+  "id": "reg-027",
+  "chapter": 10,
+  "type": "mc",
+  "q": "The Bay of Fundy in Nova Scotia is known for what?",
+  "opts": [
+   "The world's longest bridge",
+   "Canada's busiest port",
+   "The world's highest tides",
+   "The most easterly point in North America"
+  ],
+  "a": 2,
+  "expl": "Nova Scotia is known for the world's highest tides in the Bay of Fundy.",
+  "diff": 2
+ },
+ {
+  "id": "reg-029",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Which province is the smallest in Canada and known as the birthplace of Confederation?",
+  "opts": [
+   "Prince Edward Island",
+   "Nova Scotia",
+   "New Brunswick",
+   "Manitoba"
+  ],
+  "a": 0,
+  "expl": "Prince Edward Island (P.E.I.) is the smallest province, known for its beaches, red soil and potatoes, and is the birthplace of Confederation. It is connected to the mainland by the Confederation Bridge.",
+  "diff": 1
+ },
+ {
+  "id": "reg-030",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Mount Logan, the highest mountain in Canada, is located in which province or territory?",
+  "opts": [
+   "British Columbia",
+   "Yukon",
+   "Alberta",
+   "Northwest Territories"
+  ],
+  "a": 1,
+  "expl": "Mount Logan, located in the Yukon, is the highest mountain in Canada. It is named after Sir William Logan, a world-famous geologist.",
+  "diff": 3
+ },
+ {
+  "id": "reg-031",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Which province is the most easterly point in North America and has its own time zone?",
+  "opts": [
+   "Nova Scotia",
+   "Prince Edward Island",
+   "Newfoundland and Labrador",
+   "New Brunswick"
+  ],
+  "a": 2,
+  "expl": "Newfoundland and Labrador is the most easterly point in North America, has its own time zone, and was the oldest colony of the British Empire.",
+  "diff": 2
+ },
+ {
+  "id": "reg-032",
+  "chapter": 10,
+  "type": "mc",
+  "q": "What is the capital of Newfoundland and Labrador?",
+  "opts": [
+   "Saint John",
+   "Halifax",
+   "Corner Brook",
+   "St. John's"
+  ],
+  "a": 3,
+  "expl": "St. John's is the capital of Newfoundland and Labrador. (Saint John is the largest city in New Brunswick.)",
+  "diff": 1
+ },
+ {
+  "id": "reg-033",
+  "chapter": 10,
+  "type": "tf",
+  "q": "More than half the people in Canada live in cities and towns near the Great Lakes and the St. Lawrence River.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 0,
+  "expl": "True. More than half the people in Canada live near the Great Lakes and the St. Lawrence River in southern Quebec and Ontario, known as Central Canada, the industrial and manufacturing heartland.",
+  "diff": 2
+ },
+ {
+  "id": "reg-034",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Together, Ontario and Quebec produce what share of all Canadian manufactured goods?",
+  "opts": [
+   "More than three-quarters",
+   "About one-quarter",
+   "About half",
+   "Nearly one-tenth"
+  ],
+  "a": 0,
+  "expl": "Together, Ontario and Quebec produce more than three-quarters of all Canadian manufactured goods.",
+  "diff": 2
+ },
+ {
+  "id": "reg-035",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Which city is the largest in Canada and the country's main financial centre?",
+  "opts": [
+   "Montreal",
+   "Toronto",
+   "Ottawa",
+   "Vancouver"
+  ],
+  "a": 1,
+  "expl": "Toronto is the largest city in Canada and the country's main financial centre. It is also the capital of Ontario.",
+  "diff": 1
+ },
+ {
+  "id": "reg-036",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Which province is Canada's largest producer of hydro-electricity?",
+  "opts": [
+   "Ontario",
+   "Manitoba",
+   "Quebec",
+   "British Columbia"
+  ],
+  "a": 2,
+  "expl": "Quebec's huge supply of fresh water has made it Canada's largest producer of hydro-electricity. Quebec is also Canada's main producer of pulp and paper.",
+  "diff": 2
+ },
+ {
+  "id": "reg-037",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Montreal is the second largest mainly French-speaking city in the world after which city?",
+  "opts": [
+   "Brussels",
+   "Quebec City",
+   "Geneva",
+   "Paris"
+  ],
+  "a": 3,
+  "expl": "Montreal, Canada's second largest city, is the second largest mainly French-speaking city in the world after Paris.",
+  "diff": 3
+ },
+ {
+  "id": "reg-038",
+  "chapter": 10,
+  "type": "mc",
+  "q": "What is the capital of British Columbia?",
+  "opts": [
+   "Victoria",
+   "Vancouver",
+   "Kelowna",
+   "Whitehorse"
+  ],
+  "a": 0,
+  "expl": "Victoria is the capital of British Columbia, a tourist centre and headquarters of the navy's Pacific fleet.",
+  "diff": 1
+ },
+ {
+  "id": "reg-039",
+  "chapter": 10,
+  "type": "mc",
+  "q": "What is Canada's largest and busiest port?",
+  "opts": [
+   "The Port of Halifax",
+   "The Port of Vancouver",
+   "The Port of Montreal",
+   "The Port of Saint John"
+  ],
+  "a": 1,
+  "expl": "The Port of Vancouver, Canada's largest and busiest, handles billions of dollars in goods traded around the world and is our gateway to the Asia-Pacific.",
+  "diff": 2
+ },
+ {
+  "id": "reg-040",
+  "chapter": 10,
+  "type": "tf",
+  "q": "About one-half of all the goods produced in British Columbia are forestry products.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 0,
+  "expl": "True. About one-half of all goods produced in B.C. are forestry products, including lumber, newsprint, and pulp and paper products - the most valuable forestry industry in Canada.",
+  "diff": 2
+ },
+ {
+  "id": "reg-041",
+  "chapter": 10,
+  "type": "mc",
+  "q": "After English, which are the most spoken languages in British Columbia's cities?",
+  "opts": [
+   "French and German",
+   "Spanish and Italian",
+   "Chinese and Punjabi",
+   "Japanese and Korean"
+  ],
+  "a": 2,
+  "expl": "British Columbia's large Asian communities have made Chinese and Punjabi the most spoken languages in the cities after English.",
+  "diff": 3
+ },
+ {
+  "id": "reg-042",
+  "chapter": 10,
+  "type": "mc",
+  "q": "What does \"Nunavut\" mean in Inuktitut?",
+  "opts": [
+   "\"Land of the midnight sun\"",
+   "\"The frozen north\"",
+   "\"Place of many fish\"",
+   "\"Our land\""
+  ],
+  "a": 3,
+  "expl": "Nunavut means \"our land\" in Inuktitut. It was established in 1999 from the eastern part of the Northwest Territories, and its population is about 85% Inuit.",
+  "diff": 2
+ },
+ {
+  "id": "reg-043",
+  "chapter": 10,
+  "type": "mc",
+  "q": "What is the capital of the Northwest Territories?",
+  "opts": [
+   "Yellowknife",
+   "Iqaluit",
+   "Whitehorse",
+   "Dawson City"
+  ],
+  "a": 0,
+  "expl": "Yellowknife, called the \"diamond capital of North America,\" is the capital of the Northwest Territories. Iqaluit is the capital of Nunavut and Whitehorse is the capital of Yukon.",
+  "diff": 1
+ },
+ {
+  "id": "reg-044",
+  "chapter": 10,
+  "type": "tf",
+  "q": "The capital of Nunavut is Whitehorse.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 1,
+  "expl": "False. The capital of Nunavut is Iqaluit (formerly Frobisher Bay). Whitehorse is the capital of Yukon.",
+  "diff": 1
+ },
+ {
+  "id": "reg-045",
+  "chapter": 10,
+  "type": "mc",
+  "q": "Why is Canada's North often referred to as the \"Land of the Midnight Sun\"?",
+  "opts": [
+   "Because the northern lights glow at night",
+   "Because at the height of summer, daylight can last up to 24 hours",
+   "Because the sun never sets in winter",
+   "Because miners worked through the night during the Gold Rush"
+  ],
+  "a": 1,
+  "expl": "The North is called the \"Land of the Midnight Sun\" because at the height of summer, daylight can last up to 24 hours. In winter, the sun disappears and darkness sets in for three months.",
+  "diff": 2
+ }
+]

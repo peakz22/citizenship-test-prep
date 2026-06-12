@@ -1,0 +1,869 @@
+[
+ {
+  "id": "hist-001",
+  "chapter": 3,
+  "type": "mc",
+  "q": "The remains of a Viking settlement in Canada, now a World Heritage site, are located at which place?",
+  "opts": [
+   "Port-Royal",
+   "L'Anse aux Meadows",
+   "Fort Garry",
+   "Fort Langley"
+  ],
+  "a": 1,
+  "expl": "The Vikings from Iceland who colonized Greenland 1,000 years ago also reached Labrador and the island of Newfoundland. The remains of their settlement, l'Anse aux Meadows, are a World Heritage site.",
+  "diff": 2
+ },
+ {
+  "id": "hist-002",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who, in 1497, was the first to draw a map of Canada's East Coast?",
+  "opts": [
+   "Jacques Cartier",
+   "Samuel de Champlain",
+   "John Cabot",
+   "Pierre de Monts"
+  ],
+  "a": 2,
+  "expl": "European exploration began in earnest in 1497 with the expedition of John Cabot, who was the first to draw a map of Canada's East Coast.",
+  "diff": 1
+ },
+ {
+  "id": "hist-003",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Between 1534 and 1542, Jacques Cartier made three voyages across the Atlantic, claiming the land for whom?",
+  "opts": [
+   "King Francis I of France",
+   "King Charles II of England",
+   "King George V",
+   "Queen Victoria"
+  ],
+  "a": 0,
+  "expl": "Jacques Cartier made three voyages between 1534 and 1542, claiming the land for King Francis I of France.",
+  "diff": 2
+ },
+ {
+  "id": "hist-004",
+  "chapter": 3,
+  "type": "mc",
+  "q": "The name 'Canada' comes from the Iroquoian word 'kanata.' What does it mean?",
+  "opts": [
+   "Great river",
+   "Meeting place",
+   "Land of the north",
+   "Village"
+  ],
+  "a": 3,
+  "expl": "Cartier heard two captured guides speak the Iroquoian word kanata, meaning 'village.' By the 1550s, the name of Canada began appearing on maps.",
+  "diff": 1
+ },
+ {
+  "id": "hist-005",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Why did the first European explorers call the native peoples of Canada 'Indians'?",
+  "opts": [
+   "The first explorers thought they had reached the East Indies",
+   "They spoke languages related to those of India",
+   "Early maps labelled North America as India",
+   "The word means 'first peoples' in French"
+  ],
+  "a": 0,
+  "expl": "Europeans called the native peoples 'Indians' because the first explorers thought they had reached the East Indies.",
+  "diff": 1
+ },
+ {
+  "id": "hist-006",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Which Aboriginal group was nomadic, following the bison (buffalo) herd?",
+  "opts": [
+   "The Huron-Wendat",
+   "The Cree",
+   "The Sioux",
+   "The Inuit"
+  ],
+  "a": 2,
+  "expl": "The Sioux were nomadic, following the bison (buffalo) herd. The Huron-Wendat were farmers and hunters, the Cree and Dene were hunter-gatherers, and the Inuit lived off Arctic wildlife.",
+  "diff": 2
+ },
+ {
+  "id": "hist-007",
+  "chapter": 3,
+  "type": "tf",
+  "q": "Before European contact, West Coast natives preserved fish by drying and smoking.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 0,
+  "expl": "True. The guide states that West Coast natives preserved fish by drying and smoking.",
+  "diff": 1
+ },
+ {
+  "id": "hist-008",
+  "chapter": 3,
+  "type": "mc",
+  "q": "In 1604, the first European settlement north of Florida was established by which French explorers?",
+  "opts": [
+   "Jacques Cartier and Count Frontenac",
+   "Pierre de Monts and Samuel de Champlain",
+   "Jean Talon and Bishop Laval",
+   "James Wolfe and the Marquis de Montcalm"
+  ],
+  "a": 1,
+  "expl": "In 1604, the first European settlement north of Florida was established by French explorers Pierre de Monts and Samuel de Champlain, first on St. Croix Island, then at Port-Royal, in Acadia.",
+  "diff": 3
+ },
+ {
+  "id": "hist-009",
+  "chapter": 3,
+  "type": "mc",
+  "q": "In 1608, Samuel de Champlain built a fortress at what is now which city?",
+  "opts": [
+   "Montreal",
+   "Port-Royal",
+   "Québec City",
+   "Halifax"
+  ],
+  "a": 2,
+  "expl": "In 1608 Champlain built a fortress at what is now Québec City.",
+  "diff": 1
+ },
+ {
+  "id": "hist-010",
+  "chapter": 3,
+  "type": "mc",
+  "q": "The vast fur-trade economy of New France was driven by European demand for what?",
+  "opts": [
+   "Timber",
+   "Fish",
+   "Gold",
+   "Beaver pelts"
+  ],
+  "a": 3,
+  "expl": "The French and Aboriginal people collaborated in the vast fur-trade economy, driven by the demand for beaver pelts in Europe.",
+  "diff": 1
+ },
+ {
+  "id": "hist-011",
+  "chapter": 3,
+  "type": "mc",
+  "q": "In 1670, King Charles II of England granted exclusive trading rights over the watershed draining into Hudson Bay to which company?",
+  "opts": [
+   "The North West Company",
+   "The Canadian Pacific Railway",
+   "The Montreal Stock Exchange",
+   "The Hudson's Bay Company"
+  ],
+  "a": 3,
+  "expl": "In 1670, King Charles II of England granted the Hudson's Bay Company exclusive trading rights over the watershed draining into Hudson Bay.",
+  "diff": 2
+ },
+ {
+  "id": "hist-012",
+  "chapter": 3,
+  "type": "mc",
+  "q": "What did the British victory at the Battle of the Plains of Abraham in 1759 mark?",
+  "opts": [
+   "The start of the American Revolution",
+   "The end of France's empire in America",
+   "The beginning of the War of 1812",
+   "The union of Upper and Lower Canada"
+  ],
+  "a": 1,
+  "expl": "In 1759, the British defeated the French in the Battle of the Plains of Abraham at Québec City, marking the end of France's empire in America.",
+  "diff": 1
+ },
+ {
+  "id": "hist-013",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Which two commanders were both killed leading their troops at the Battle of the Plains of Abraham?",
+  "opts": [
+   "Brigadier James Wolfe and the Marquis de Montcalm",
+   "Sir Isaac Brock and Chief Tecumseh",
+   "Count Frontenac and Pierre de Monts",
+   "Sir Guy Carleton and Charles de Salaberry"
+  ],
+  "a": 0,
+  "expl": "The commanders of both armies, Brigadier James Wolfe and the Marquis de Montcalm, were killed leading their troops in battle in 1759.",
+  "diff": 2
+ },
+ {
+  "id": "hist-014",
+  "chapter": 3,
+  "type": "mc",
+  "q": "What did the Quebec Act of 1774 do for the French Roman Catholic majority?",
+  "opts": [
+   "It abolished slavery throughout the British Empire",
+   "It divided Quebec into Upper and Lower Canada",
+   "It united Upper and Lower Canada as the Province of Canada",
+   "It allowed religious freedom for Catholics and permitted them to hold public office"
+  ],
+  "a": 3,
+  "expl": "The Quebec Act of 1774 allowed religious freedom for Catholics and permitted them to hold public office, a practice not then allowed in Britain.",
+  "diff": 2
+ },
+ {
+  "id": "hist-015",
+  "chapter": 3,
+  "type": "tf",
+  "q": "The Quebec Act of 1774 abolished French civil law in the Province of Quebec.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 1,
+  "expl": "False. The Quebec Act restored French civil law while maintaining British criminal law.",
+  "diff": 2
+ },
+ {
+  "id": "hist-016",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who were the United Empire Loyalists?",
+  "opts": [
+   "People loyal to the Crown who fled the American Revolution to settle in Nova Scotia and Quebec",
+   "French colonists deported from Acadia",
+   "Fur traders working for the Hudson's Bay Company",
+   "Settlers who supported joining the United States"
+  ],
+  "a": 0,
+  "expl": "More than 40,000 people loyal to the Crown, called 'Loyalists,' fled the oppression of the American Revolution to settle in Nova Scotia and Quebec.",
+  "diff": 1
+ },
+ {
+  "id": "hist-018",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Where was the first representative assembly in what is now Canada elected, in 1758?",
+  "opts": [
+   "Québec City",
+   "York (now Toronto)",
+   "Charlottetown",
+   "Halifax, Nova Scotia"
+  ],
+  "a": 3,
+  "expl": "The first representative assembly was elected in Halifax, Nova Scotia, in 1758. Prince Edward Island followed in 1773 and New Brunswick in 1785.",
+  "diff": 3
+ },
+ {
+  "id": "hist-019",
+  "chapter": 3,
+  "type": "mc",
+  "q": "The Constitutional Act of 1791 divided the Province of Quebec into which two parts?",
+  "opts": [
+   "Canada East and Canada West",
+   "Upper Canada and Lower Canada",
+   "Ontario and Quebec",
+   "The Province of Canada and Rupert's Land"
+  ],
+  "a": 1,
+  "expl": "The Constitutional Act of 1791 divided the Province of Quebec into Upper Canada (later Ontario), mainly Loyalist, Protestant and English-speaking, and Lower Canada (later Quebec), heavily Catholic and French-speaking.",
+  "diff": 2
+ },
+ {
+  "id": "hist-020",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Major-General Sir Isaac Brock captured Detroit in 1812 but was killed while defending against an American attack at which place?",
+  "opts": [
+   "Queenston Heights",
+   "Châteauguay",
+   "Beaver Dams",
+   "Fort Henry, Kingston"
+  ],
+  "a": 0,
+  "expl": "In July 1812 Brock captured Detroit but was killed while defending against an American attack at Queenston Heights, near Niagara Falls, a battle the Americans lost.",
+  "diff": 2
+ },
+ {
+  "id": "hist-021",
+  "chapter": 3,
+  "type": "mc",
+  "q": "In 1813, Laura Secord made a dangerous 19-mile (30-km) journey on foot in order to do what?",
+  "opts": [
+   "Carry ammunition to Fort Garry",
+   "Deliver dispatches to the Duke of Wellington",
+   "Warn Lieutenant James FitzGibbon of a planned American attack",
+   "Guide Loyalist refugees to Nova Scotia"
+  ],
+  "a": 2,
+  "expl": "In 1813, Laura Secord made a dangerous 19-mile (30-km) journey on foot to warn Lieutenant James FitzGibbon of a planned American attack. Her bravery contributed to victory at the Battle of Beaver Dams.",
+  "diff": 1
+ },
+ {
+  "id": "hist-022",
+  "chapter": 3,
+  "type": "mc",
+  "q": "In 1813, who led 460 soldiers, mostly French Canadiens, to turn back 4,000 American invaders at Châteauguay?",
+  "opts": [
+   "Major-General Robert Ross",
+   "Lieutenant-Colonel Charles de Salaberry",
+   "Major-General Sir Isaac Brock",
+   "Sir Guy Carleton"
+  ],
+  "a": 1,
+  "expl": "In 1813, Lieutenant-Colonel Charles de Salaberry and 460 soldiers, mostly French Canadiens, turned back 4,000 American invaders at Châteauguay, south of Montreal.",
+  "diff": 3
+ },
+ {
+  "id": "hist-023",
+  "chapter": 3,
+  "type": "tf",
+  "q": "The War of 1812 helped ensure that Canada would remain independent of the United States.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 0,
+  "expl": "True. The present-day Canada-U.S.A. border is partly an outcome of the War of 1812, which ensured that Canada would remain independent of the United States.",
+  "diff": 1
+ },
+ {
+  "id": "hist-024",
+  "chapter": 3,
+  "type": "mc",
+  "q": "In what year did the British Parliament abolish slavery throughout the Empire?",
+  "opts": [
+   "1793",
+   "1807",
+   "1833",
+   "1867"
+  ],
+  "a": 2,
+  "expl": "In 1807 the British Parliament prohibited the buying and selling of slaves, and in 1833 it abolished slavery throughout the Empire.",
+  "diff": 1
+ },
+ {
+  "id": "hist-025",
+  "chapter": 3,
+  "type": "mc",
+  "q": "What was the Underground Railroad?",
+  "opts": [
+   "A Christian anti-slavery network through which slaves escaping the United States settled in Canada",
+   "The first railway line between Montreal and Toronto",
+   "A secret supply route used during the War of 1812",
+   "A trading route of the Hudson's Bay Company"
+  ],
+  "a": 0,
+  "expl": "Thousands of slaves escaped from the United States, followed 'the North Star' and settled in Canada via the Underground Railroad, a Christian anti-slavery network.",
+  "diff": 1
+ },
+ {
+  "id": "hist-026",
+  "chapter": 3,
+  "type": "tf",
+  "q": "The armed rebellions of 1837-38 had broad public support and succeeded in overthrowing British rule.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 1,
+  "expl": "False. The rebels did not have enough public support to succeed and were defeated by British troops and Canadian volunteers; a number of rebels were hanged or exiled.",
+  "diff": 2
+ },
+ {
+  "id": "hist-027",
+  "chapter": 3,
+  "type": "mc",
+  "q": "After the rebellions of 1837-38, what did Lord Durham recommend?",
+  "opts": [
+   "That Canada join the United States",
+   "That the Hudson's Bay Company govern the West",
+   "That Quebec become an independent country",
+   "That Upper and Lower Canada be merged and given responsible government"
+  ],
+  "a": 3,
+  "expl": "Lord Durham, an English reformer sent to report on the rebellions, recommended that Upper and Lower Canada be merged and given responsible government.",
+  "diff": 2
+ },
+ {
+  "id": "hist-028",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Under responsible government, what must happen if the government loses a confidence vote in the assembly?",
+  "opts": [
+   "The Governor appoints new ministers from London",
+   "It must resign",
+   "A new constitution must be written",
+   "The assembly is permanently dissolved"
+  ],
+  "a": 1,
+  "expl": "Responsible government means the ministers of the Crown must have the support of a majority of the elected representatives; if the government loses a confidence vote in the assembly it must resign. This is the system we have today.",
+  "diff": 2
+ },
+ {
+  "id": "hist-029",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Which was the first British North American colony to attain full responsible government, in 1847-48?",
+  "opts": [
+   "Nova Scotia",
+   "United Canada",
+   "New Brunswick",
+   "Prince Edward Island"
+  ],
+  "a": 0,
+  "expl": "The first British North American colony to attain full responsible government was Nova Scotia in 1847-48. In 1848-49 Lord Elgin introduced responsible government in United Canada.",
+  "diff": 3
+ },
+ {
+  "id": "hist-030",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who were the Fathers of Confederation?",
+  "opts": [
+   "The first officers of the North West Mounted Police",
+   "The British governors of the Atlantic colonies",
+   "Representatives of Nova Scotia, New Brunswick and the Province of Canada who worked to establish a new country",
+   "The first judges appointed in the Dominion of Canada"
+  ],
+  "a": 2,
+  "expl": "From 1864 to 1867, representatives of Nova Scotia, New Brunswick and the Province of Canada, with British support, worked together to establish a new country. These men are known as the Fathers of Confederation.",
+  "diff": 1
+ },
+ {
+  "id": "hist-031",
+  "chapter": 3,
+  "type": "mc",
+  "q": "On what date was the Dominion of Canada officially born?",
+  "opts": [
+   "June 6, 1944",
+   "July 1, 1867",
+   "November 11, 1918",
+   "January 11, 1815"
+  ],
+  "a": 1,
+  "expl": "The British Parliament passed the British North America Act in 1867, and the Dominion of Canada was officially born on July 1, 1867.",
+  "diff": 1
+ },
+ {
+  "id": "hist-032",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Which four provinces first formed the Dominion of Canada in 1867?",
+  "opts": [
+   "Ontario, Quebec, Nova Scotia and New Brunswick",
+   "Ontario, Quebec, Manitoba and British Columbia",
+   "Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland",
+   "Ontario, Manitoba, Saskatchewan and Alberta"
+  ],
+  "a": 0,
+  "expl": "The old Province of Canada was split into Ontario and Quebec, which, together with New Brunswick and Nova Scotia, formed the new country called the Dominion of Canada in 1867.",
+  "diff": 1
+ },
+ {
+  "id": "hist-033",
+  "chapter": 3,
+  "type": "tf",
+  "q": "Until 1982, July 1 was celebrated as 'Dominion Day.'",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 0,
+  "expl": "True. Until 1982, July 1 was celebrated as 'Dominion Day' to commemorate the day Canada became a self-governing Dominion. Today it is officially known as Canada Day.",
+  "diff": 2
+ },
+ {
+  "id": "hist-034",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Which Father of Confederation suggested the term 'Dominion of Canada' in 1864, inspired by Psalm 72 in the Bible?",
+  "opts": [
+   "Sir John A. Macdonald",
+   "Sir George-Étienne Cartier",
+   "Sir Étienne-Paschal Taché",
+   "Sir Leonard Tilley"
+  ],
+  "a": 3,
+  "expl": "Sir Leonard Tilley, an elected official and Father of Confederation from New Brunswick, suggested the term Dominion of Canada in 1864, inspired by Psalm 72, which refers to 'dominion from sea to sea.'",
+  "diff": 3
+ },
+ {
+  "id": "hist-035",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who became Canada's first Prime Minister in 1867?",
+  "opts": [
+   "Sir Wilfrid Laurier",
+   "Sir John Alexander Macdonald",
+   "Sir Louis-Hippolyte La Fontaine",
+   "Sir Robert Borden"
+  ],
+  "a": 1,
+  "expl": "In 1867, Sir John Alexander Macdonald, a Father of Confederation, became Canada's first Prime Minister. Born in Scotland on January 11, 1815, his portrait is on the $10 bill.",
+  "diff": 1
+ },
+ {
+  "id": "hist-036",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who was the key architect of Confederation from Quebec?",
+  "opts": [
+   "Sir Étienne-Paschal Taché",
+   "Sir Wilfrid Laurier",
+   "Sir George-Étienne Cartier",
+   "Louis Riel"
+  ],
+  "a": 2,
+  "expl": "Sir George-Étienne Cartier was the key architect of Confederation from Quebec. He led Quebec into Confederation and helped negotiate the entry of the Northwest Territories, Manitoba and British Columbia into Canada.",
+  "diff": 2
+ },
+ {
+  "id": "hist-037",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who led the armed uprising of the Métis at Red River and seized Fort Garry in 1869?",
+  "opts": [
+   "Louis Riel",
+   "Gabriel Dumont",
+   "Chief Tecumseh",
+   "Joseph Brant"
+  ],
+  "a": 0,
+  "expl": "When Canada took over the northwest region in 1869, the 12,000 Métis of the Red River were not consulted. In response, Louis Riel led an armed uprising and seized Fort Garry, the territorial capital.",
+  "diff": 1
+ },
+ {
+  "id": "hist-038",
+  "chapter": 3,
+  "type": "mc",
+  "q": "What was the outcome for Louis Riel after the second Métis rebellion of 1885 in present-day Saskatchewan?",
+  "opts": [
+   "He became premier of Saskatchewan",
+   "He negotiated Manitoba's entry into Confederation",
+   "He was permanently exiled to the United States",
+   "He was tried and executed for high treason"
+  ],
+  "a": 3,
+  "expl": "The second rebellion in 1885 led to Riel's trial and execution for high treason, a decision strongly opposed in Quebec. Riel is seen by many as a hero, a defender of Métis rights and the father of Manitoba.",
+  "diff": 3
+ },
+ {
+  "id": "hist-039",
+  "chapter": 3,
+  "type": "tf",
+  "q": "Louis Riel was elected to Parliament but never took his seat.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 0,
+  "expl": "True. After fleeing to the United States in 1870, Riel was elected to Parliament but never took his seat.",
+  "diff": 3
+ },
+ {
+  "id": "hist-040",
+  "chapter": 3,
+  "type": "mc",
+  "q": "British Columbia joined Canada in 1871 after Ottawa promised to do what?",
+  "opts": [
+   "Abolish the head tax",
+   "Establish a naval base at Victoria",
+   "Build a railway to the West Coast",
+   "Create the North West Mounted Police"
+  ],
+  "a": 2,
+  "expl": "British Columbia joined Canada in 1871 after Ottawa promised to build a railway to the West Coast.",
+  "diff": 1
+ },
+ {
+  "id": "hist-041",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who drove the last spike of the Canadian Pacific Railway on November 7, 1885?",
+  "opts": [
+   "Sir John A. Macdonald",
+   "Donald Smith (Lord Strathcona)",
+   "Sir Sam Steele",
+   "Sir Wilfrid Laurier"
+  ],
+  "a": 1,
+  "expl": "On November 7, 1885, Donald Smith (Lord Strathcona), the Scottish-born director of the Canadian Pacific Railway, drove the last spike, completing a powerful symbol of unity.",
+  "diff": 2
+ },
+ {
+  "id": "hist-042",
+  "chapter": 3,
+  "type": "mc",
+  "q": "In what year did Alberta and Saskatchewan become provinces of Canada?",
+  "opts": [
+   "1867",
+   "1871",
+   "1898",
+   "1905"
+  ],
+  "a": 3,
+  "expl": "Alberta and Saskatchewan joined Confederation in 1905. Manitoba and the Northwest Territories joined in 1870, British Columbia in 1871, and Yukon Territory in 1898.",
+  "diff": 2
+ },
+ {
+  "id": "hist-043",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Which province was the last to join Canada, in 1949?",
+  "opts": [
+   "Newfoundland and Labrador",
+   "Prince Edward Island",
+   "British Columbia",
+   "Manitoba"
+  ],
+  "a": 0,
+  "expl": "Newfoundland and Labrador joined Canada in 1949. The territory of Nunavut was later established in 1999.",
+  "diff": 2
+ },
+ {
+  "id": "hist-044",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who became the first French-Canadian prime minister since Confederation and encouraged immigration to the West?",
+  "opts": [
+   "Sir George-Étienne Cartier",
+   "Sir Wilfrid Laurier",
+   "Sir Louis-Hippolyte La Fontaine",
+   "Sir Robert Borden"
+  ],
+  "a": 1,
+  "expl": "Sir Wilfrid Laurier became the first French-Canadian prime minister since Confederation and encouraged immigration to the West. His portrait is on the $5 bill.",
+  "diff": 1
+ },
+ {
+  "id": "hist-045",
+  "chapter": 3,
+  "type": "mc",
+  "q": "About how many Canadians served in the First World War, out of a total population of eight million?",
+  "opts": [
+   "About 60,000",
+   "About 260,000",
+   "More than 600,000",
+   "More than seven million"
+  ],
+  "a": 2,
+  "expl": "More than 600,000 Canadians served in the First World War, most of them volunteers, out of a total population of eight million. In total, 60,000 Canadians were killed and 170,000 wounded.",
+  "diff": 3
+ },
+ {
+  "id": "hist-046",
+  "chapter": 3,
+  "type": "mc",
+  "q": "In April 1917, the Canadian Corps secured its reputation as the 'shock troops of the British Empire' by capturing what?",
+  "opts": [
+   "Vimy Ridge",
+   "Juno Beach",
+   "Dieppe",
+   "Hong Kong"
+  ],
+  "a": 0,
+  "expl": "The Canadian Corps captured Vimy Ridge in April 1917, with 10,000 killed or wounded, securing the Canadians' reputation for valour as the 'shock troops of the British Empire.'",
+  "diff": 1
+ },
+ {
+  "id": "hist-047",
+  "chapter": 3,
+  "type": "tf",
+  "q": "Vimy Day is celebrated on November 11.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 1,
+  "expl": "False. April 9 is celebrated as Vimy Day, marking the capture of Vimy Ridge in 1917. November 11 is Remembrance Day.",
+  "diff": 2
+ },
+ {
+  "id": "hist-048",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who commanded the Canadian Corps in 1918 and is described as Canada's greatest soldier?",
+  "opts": [
+   "Sir Isaac Brock",
+   "Sir Sam Steele",
+   "Major-General Robert Ross",
+   "General Sir Arthur Currie"
+  ],
+  "a": 3,
+  "expl": "In 1918, under the command of General Sir Arthur Currie, Canada's greatest soldier, the Canadian Corps advanced alongside the French and British Empire troops in the last hundred days of the war.",
+  "diff": 3
+ },
+ {
+  "id": "hist-049",
+  "chapter": 3,
+  "type": "mc",
+  "q": "The First World War ended with the Armistice on what date?",
+  "opts": [
+   "April 9, 1917",
+   "November 11, 1918",
+   "May 8, 1945",
+   "August 8, 1918"
+  ],
+  "a": 1,
+  "expl": "With Germany and Austria's surrender, the war ended in the Armistice on November 11, 1918. Canadians now observe Remembrance Day each year on November 11.",
+  "diff": 1
+ },
+ {
+  "id": "hist-050",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who composed the poem 'In Flanders Fields' in 1915?",
+  "opts": [
+   "Stephen Leacock",
+   "Sir Arthur Currie",
+   "Lieutenant-Colonel John McCrae",
+   "Émile Nelligan"
+  ],
+  "a": 2,
+  "expl": "Canadian medical officer Lieutenant-Colonel John McCrae composed the poem 'In Flanders Fields' in 1915; it is often recited on Remembrance Day.",
+  "diff": 1
+ },
+ {
+  "id": "hist-051",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who founded the women's suffrage movement in Canada and was the first Canadian woman to practise medicine in Canada?",
+  "opts": [
+   "Dr. Emily Stowe",
+   "Agnes Macphail",
+   "Thérèse Casgrain",
+   "Laura Secord"
+  ],
+  "a": 0,
+  "expl": "The founder of the women's suffrage movement in Canada was Dr. Emily Stowe, the first Canadian woman to practise medicine in Canada.",
+  "diff": 3
+ },
+ {
+  "id": "hist-052",
+  "chapter": 3,
+  "type": "mc",
+  "q": "In 1916, which province became the first to grant voting rights to women?",
+  "opts": [
+   "Ontario",
+   "Quebec",
+   "Nova Scotia",
+   "Manitoba"
+  ],
+  "a": 3,
+  "expl": "In 1916, Manitoba became the first province to grant voting rights to women. In 1918, most Canadian female citizens aged 21 and over were granted the right to vote in federal elections; Quebec granted women the vote in 1940.",
+  "diff": 2
+ },
+ {
+  "id": "hist-053",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Who became the first woman Member of Parliament in 1921?",
+  "opts": [
+   "Dr. Emily Stowe",
+   "Agnes Macphail",
+   "Mary Ann Shadd Cary",
+   "Thérèse Casgrain"
+  ],
+  "a": 1,
+  "expl": "In 1921 Agnes Macphail, a farmer and teacher, became the first woman MP.",
+  "diff": 1
+ },
+ {
+  "id": "hist-054",
+  "chapter": 3,
+  "type": "tf",
+  "q": "Agnes Macphail was the first Canadian woman to practise medicine in Canada.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 1,
+  "expl": "False. Agnes Macphail was the first woman MP (1921). Dr. Emily Stowe was the first Canadian woman to practise medicine in Canada and founded the suffrage movement.",
+  "diff": 2
+ },
+ {
+  "id": "hist-055",
+  "chapter": 3,
+  "type": "mc",
+  "q": "What did the stock market crash of 1929 lead to?",
+  "opts": [
+   "The Roaring Twenties",
+   "The First World War",
+   "The Great Depression, or the 'Dirty Thirties'",
+   "Confederation"
+  ],
+  "a": 2,
+  "expl": "The stock market crash of 1929 led to the Great Depression or the 'Dirty Thirties.' Unemployment reached 27% in 1933 and many businesses were wiped out.",
+  "diff": 1
+ },
+ {
+  "id": "hist-056",
+  "chapter": 3,
+  "type": "mc",
+  "q": "Why was the Bank of Canada created in 1934?",
+  "opts": [
+   "To manage the money supply and bring stability to the financial system",
+   "To finance the building of the Canadian Pacific Railway",
+   "To replace the Montreal Stock Exchange",
+   "To pay unemployment insurance during the Depression"
+  ],
+  "a": 0,
+  "expl": "The Bank of Canada, a central bank to manage the money supply and bring stability to the financial system, was created in 1934.",
+  "diff": 3
+ },
+ {
+  "id": "hist-057",
+  "chapter": 3,
+  "type": "mc",
+  "q": "How did the Second World War begin in 1939?",
+  "opts": [
+   "Japan attacked Hong Kong",
+   "Germany attacked Belgium and France and Britain declared war",
+   "The stock market crashed",
+   "Adolf Hitler, the Nazi dictator of Germany, invaded Poland"
+  ],
+  "a": 3,
+  "expl": "The Second World War began in 1939 when Adolf Hitler, the National Socialist (Nazi) dictator of Germany, invaded Poland and conquered much of Europe.",
+  "diff": 1
+ },
+ {
+  "id": "hist-058",
+  "chapter": 3,
+  "type": "mc",
+  "q": "On D-Day, June 6, 1944, 15,000 Canadian troops stormed and captured which beach from the German Army?",
+  "opts": [
+   "Omaha Beach",
+   "Dieppe",
+   "Juno Beach",
+   "Vimy Ridge"
+  ],
+  "a": 2,
+  "expl": "In the invasion of Normandy on June 6, 1944, known as D-Day, 15,000 Canadian troops stormed and captured Juno Beach from the German Army, a great national achievement.",
+  "diff": 1
+ },
+ {
+  "id": "hist-059",
+  "chapter": 3,
+  "type": "tf",
+  "q": "Approximately one in ten Allied soldiers on D-Day was Canadian.",
+  "opts": [
+   "True",
+   "False"
+  ],
+  "a": 0,
+  "expl": "True. Approximately one in ten Allied soldiers on D-Day was Canadian. The Canadian Army went on to liberate the Netherlands in 1944-45.",
+  "diff": 2
+ },
+ {
+  "id": "hist-060",
+  "chapter": 3,
+  "type": "mc",
+  "q": "In what year were Aboriginal people granted the right to vote?",
+  "opts": [
+   "1867",
+   "1918",
+   "1948",
+   "1960"
+  ],
+  "a": 3,
+  "expl": "Aboriginal people were granted the vote in 1960. In 1948 the Japanese-Canadians, the last Canadians of Asian descent denied the franchise, gained the right to vote.",
+  "diff": 2
+ }
+]

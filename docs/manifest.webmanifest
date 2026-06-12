@@ -1,0 +1,14 @@
+{
+  "name": "True North — Citizenship Test Prep",
+  "short_name": "True North",
+  "description": "Study for the Canadian citizenship test with questions based on the official Discover Canada guide.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f5f2",
+  "theme_color": "#b3001b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

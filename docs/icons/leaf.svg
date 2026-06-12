@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<g id="leaf">
+<path d="M50 6 L55 21 L67 13 L62 30 L79 26 L70 40 L88 47 L71 53 L79 68 L61 63 L63 81 L50 70 L37 81 L39 63 L21 68 L29 53 L12 47 L30 40 L21 26 L38 30 L33 13 L45 21 Z"/>
+<rect x="47.5" y="68" width="5" height="26" rx="2.5"/>
+</g>
+</svg>
